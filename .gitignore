@@ -1,0 +1,8 @@
+env
+.idea
+__pycache__
+pytest.ini
+venv
+.env
+allure-results
+/allure-results
